@@ -5,7 +5,7 @@
   "homepage": "https://github.com/IuliaPopoaca/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /parcel-project-template"
+    "build": "parcel build src/index.html --public-url /goit-js-hw-09"
   },
   "repository": {
     "type": "git",
